@@ -1,8 +1,19 @@
 <h1 align="center">Hello World 👋</h1>
 <h3 align="center">A passionate computer science student from Malaysia</h3>
 
-<p align="left"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="likweitan" />
-                 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="likweitan" /></p>
+<p align='center'>
+  
+  <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;-->
+  <a href="https://www.linkedin.com/in/likweitan/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/likweitan">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 - 🔭 I’m currently working on **Assessing the Readiness of HEI in Malaysia to Accept Generation Alpha using Predictive Analytics**
 
