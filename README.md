@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋</h1>
 <h3 align="center">A passionate computer science student from Malaysia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=likweitan&label=Profile%20views&color=0e75b6&style=flat" alt="likweitan" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="likweitan" /> </p>
 
 - 🔭 I’m currently working on **Assessing the Readiness of HEI in Malaysia to Accept Generation Alpha using Predictive Analytics**
 
