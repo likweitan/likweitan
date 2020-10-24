@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Big Data**
 
-- 📝 I regulary write articles on [likweitan.github.io](likweitan.github.io)
+- 📝 I regulary write articles on [https://likweitan.github.io](likweitan.github.io)
 
 - 📫 How to reach me **likweitan@gmail.com**
 
