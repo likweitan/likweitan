@@ -19,9 +19,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=likweitan&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-- 🔭 I’m currently working on **Assessing the Readiness of HEI in Malaysia to Accept Generation Alpha using Predictive Analytics**
-
-- 🌱 I’m currently learning **Big Data**
+- 🌱 I’m currently learning **Django**, **PostgreSQL**
 
 - 📝 I regulary write articles on [likweitan.github.io](https://likweitan.github.io)
 
