@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Django**, **REST APIs**, **PostgreSQL**, **GraphQL**
 
-- 📝 I regulary write articles on [likweitan.github.io](https://likweitan.github.io)
+- 📝 I regulary write articles on [blog.railgun.codes](https://blog.railgun.codes)
 
 - 📫 How to reach me **likweitan@gmail.com**
 
