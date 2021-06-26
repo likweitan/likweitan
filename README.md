@@ -27,9 +27,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Apache Pig: Windows Installation 安装](http://likweitan.github.io/posts/60b0d0b4/)
-- [Hadoop: Windows Installation 安装](http://likweitan.github.io/posts/55b85722/)
-- [React: Freecodecamp](http://likweitan.github.io/posts/aef13551/)
-- [Python: Lists](http://likweitan.github.io/posts/7117eb09/)
-- [Pandas: Index, Select, Assign](http://likweitan.github.io/posts/3cc6066f/)
+- [Apache Pig: Windows Installation 安装](http://blog.likweitan.tech/posts/60b0d0b4/)
+- [Hadoop: Windows Installation 安装](http://blog.likweitan.tech/posts/55b85722/)
+- [React: Freecodecamp](http://blog.likweitan.tech/posts/aef13551/)
+- [Python: Lists](http://blog.likweitan.tech/posts/7117eb09/)
+- [Pandas: Index, Select, Assign](http://blog.likweitan.tech/posts/3cc6066f/)
 <!-- BLOG-POST-LIST:END -->
