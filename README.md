@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Django**, **REST APIs**, **PostgreSQL**, **ABAP**
 
-- 📝 I regulary write articles on [blog.railgun.codes](https://blog.railgun.codes)
+- 📝 I regulary write articles on [blog.likweitan.tech](https://blog.railgun.codes)
 
 - 📫 How to reach me **likweitan@gmail.com**
 
