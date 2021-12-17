@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋</h1>
-<h3 align="center">A passionate computer science fresh graduate from Malaysia</h3>
+<h3 align="center">An ordinary ABAP developer</h3>
 
 <p align='center'>
   
