@@ -24,7 +24,19 @@
 - 📝 I regulary write articles on [blog.likweitan.tech](https://blog.railgun.codes)
 
 - 📫 How to reach me **likweitan@gmail.com**
+<div align="center">
+<img src="https://i.pinimg.com/originals/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.gif">
+<div>
+  <a href="https://github.com/danihre">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danihre&include_all_commits&count_private=true&show_icons=true&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danihre&layout=compact&langs_count=10&theme=dracula&hide=java&exclude_repo=js-nds,jsdoom"/>
+  </div>
 
+<div>
+ <a href="https://discordapp.com/users/424187328051937292" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:henriqueevaldo@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/danielhre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
