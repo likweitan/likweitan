@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>I'm Lik Wei</h3>
+  <h3>Lik Wei</h3>
   <p>25 year old software developer.</p>
   <hr>
 </div>
