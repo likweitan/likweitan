@@ -24,6 +24,14 @@
 - 📝 I regulary write articles on [blog.likweitan.tech](https://blog.railgun.codes)
 
 - 📫 How to reach me **likweitan@gmail.com**
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="auto" height="100px">
+  <h3>I'm Lik Wei</h3>
+  <p>25 year old software developer.</p>
+  <hr>
+</div>
+
 <div align="center">
 <!-- <img src="https://i.pinimg.com/originals/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.gif">
 <div>
