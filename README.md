@@ -4,6 +4,28 @@
   <hr>
 </div>
 
+![Profile views](https://komarev.com/ghpvc/?username=likweitan&label=Profile%20views&color=60598F&style=flat)
+<div class="github-introduction">
+
+I'm an **ABAP Developer** with a growing focus on BTP AI technologies. My journey began with a passion for problem-solving and technology, eventually leading me to SAP development, where I specialize in enhancing business processes through custom ABAP programs, Fiori apps, and SAP S/4HANA extensions.
+
+In addition to SAP development, I’m diving into BTP AI to explore intelligent automation, machine learning integration, and AI-based insights. I'm also expanding my knowledge of DevOps to streamline development, deployment, and monitoring processes, ensuring smooth operations in cloud and hybrid environments.
+
+</div>
+
+- 💼 Interested in working together? Reach out to me via <a href="mailto:likweitan@gmail.com">email.</a>
+- 💬 Got a question or just curious about something? Feel free to ask!
+
+
+ ## 📈 My GitHub stats
+
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=likweitan&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="likweitan's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=likweitan&theme=transparent&hide_border=true" alt="likweitan's Streak" height="165">
+  </p>
+</div>
+
 <div align="center">
 <!-- <img src="https://i.pinimg.com/originals/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.gif">
 <div>
@@ -35,4 +57,5 @@
   <img align="center" alt="Dani-Linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <!--   <img align="center" alt="Dani-Shell" height="35" width="45" src="./assets/bash-original.svg">
   </div>
- </div>
+ </div> -->
+  
