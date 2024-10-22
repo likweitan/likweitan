@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Lik Wei</h3>
-  <p>Software developer.</p>
+  <p>A software developer.</p>
   <hr>
 </div>
 
