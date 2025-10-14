@@ -48,13 +48,14 @@ In addition to SAP development, I’m diving into BTP AI to explore intelligent 
  </div> -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-SAP" height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg">
+  <img align="center" alt="Dani-JS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Dani-JS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dani-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dani-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dani-Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Dani-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="Dani-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="Dani-Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
 <!--   <img align="center" alt="Dani-Linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> -->
-  <img align="center" alt="Dani-Rasp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
-  <img align="center" alt="Dani-Linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Dani-Rasp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-plain.svg">
+  <img align="center" alt="Dani-Linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
 <!--   <img align="center" alt="Dani-Shell" height="35" width="45" src="./assets/bash-original.svg">
   </div>
  </div> -->
