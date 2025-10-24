@@ -10,11 +10,11 @@
 - 📨 Email me at: [likweitan@gmail.com](mailto:likweitan@gmail.com)
 - 🐾 Find me at: LinkedIn: **[Lik Wei](https://www.linkedin.com/in/likweitan/)**
 
-
-
- ## 📈 My GitHub stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=likweitan&theme=transparent&show_icons=true)
+<p align = "center">
+  <img src = "https://streak-stats.demolab.com?user=likweitan&theme=date-night&hide_border=true&border_radius=50&card_width=800&background=FFFFFF00">
+  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=likweitan&count_private=true&show_icons=true&line_height=30&theme=dracula&include_all_commits=true&hide=contribs,prs&border_radius=20">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=likweitan&layout=compact&line_height=20&theme=dracula&border_radius=20"> -->
+</p>
 
 <div align="center">
 <!-- <img src="https://i.pinimg.com/originals/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.gif">
