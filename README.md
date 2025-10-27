@@ -4,7 +4,7 @@
   <hr>
 </div>
 
-- 🎓  [INTI University](https://newinti.edu.my/) - B.S. in Computer Science and Technology. **GPA: 3.61/4**.
+- 🎓  [INTI University](https://newinti.edu.my/) - B.S. in Computer Science and Technology.
 - 🧸 Internship: **[Hitachi eBworx](https://www.hitachi-ebworx.com/)**, 2021
 - 🦾 TypeScript / JavaScript / React / Python / Java / C++ / SAP ABAP / UI5
 - 📨 Email me at: [likweitan@gmail.com](mailto:likweitan@gmail.com)
