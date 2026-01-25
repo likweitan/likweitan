@@ -8,3 +8,4 @@ Enthusiastic SAP Developer with over 4 years of experience, specialized in SAP S
 - GIT
 - DOCKER
 
+Contributed to [Project Kersenseife](https://github.com/SAP/project-kernseife)
