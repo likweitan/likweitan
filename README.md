@@ -4,7 +4,7 @@ Enthusiastic SAP Developer with over 4 years of experience, specialized in SAP S
 
 - ABAP
 - PYTHON
-- JS
+- JAVASCRIPT
 - GIT
 - DOCKER
 
