@@ -2,10 +2,6 @@ Enthusiastic SAP Developer with over 4 years of experience, specialized in SAP S
 
 ### Skills
 
-- ABAP
-- PYTHON
-- JAVASCRIPT
-- GIT
-- DOCKER
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,docker,git,raspberrypi)](https://skillicons.dev)
 
 Contributed to [Project Kersenseife](https://github.com/SAP/project-kernseife)
