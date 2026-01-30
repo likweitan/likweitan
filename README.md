@@ -12,4 +12,4 @@ Enthusiastic SAP Developer with over 4 years of experience, specialized in SAP S
 
 [![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
 
-Contributed to [Project Kersenseife](https://github.com/SAP/project-kernseife)
+> Actively contributing to [Project Kersenseife](https://github.com/SAP/project-kernseife)
