@@ -16,3 +16,4 @@ Enthusiastic SAP Developer with over 4 years of experience, specialized in SAP S
 
 - [Project Kersenseife](https://github.com/SAP/project-kernseife)
 - [SAP Code Style Guides](https://github.com/SAP/styleguides)
+- [SAP Cloud Connector](https://github.com/likweitan/sap-cloud-connector)
