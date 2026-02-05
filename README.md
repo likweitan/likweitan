@@ -6,7 +6,7 @@ Enthusiastic SAP Developer with over 4 years of experience, specialized in SAP S
 
 ### IDEs
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,unity)](https://skillicons.dev)
+[![My IDEs](https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,unity)](https://skillicons.dev)
 
 ### Operating Systems
 
