@@ -14,6 +14,7 @@ Enthusiastic SAP Developer with over 5 years of experience, specialized in SAP S
 
 ### ABAP and Related Open-Source Contributions
 
+- [ABAP Skills](https://github.com/likweitan/abap-skills)
 - [Project Kersenseife](https://github.com/SAP/project-kernseife)
 - [SAP Code Style Guides](https://github.com/SAP/styleguides)
 - [SAP Cloud Connector](https://github.com/likweitan/sap-cloud-connector)
