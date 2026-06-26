@@ -1,5 +1,3 @@
-Enthusiastic SAP Developer with over 5 years of experience, specialized in SAP S/4 HANA On-Premise, Cloud Private Edition, Cloud Public Edition, BTP. Proven track record in optimizing SAP environments, achieving significant efficiency improvements, and leading complex implementations.
-
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,react,docker,git,raspberrypi)](https://skillicons.dev)
