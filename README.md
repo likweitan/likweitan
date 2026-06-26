@@ -12,6 +12,10 @@ Enthusiastic SAP Developer with over 5 years of experience, specialized in SAP S
 
 [![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
 
+### AI Contributions
+
+- [Identivia](https://github.com/identivia)
+
 ### ABAP and Related Open-Source Contributions
 
 - [ABAP Skills](https://github.com/likweitan/abap-skills)
