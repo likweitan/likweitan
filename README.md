@@ -4,10 +4,6 @@ Enthusiastic SAP Developer with over 5 years of experience, specialized in SAP S
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,react,docker,git,raspberrypi)](https://skillicons.dev)
 
-### Operating Systems
-
-[![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
-
 ### AI Contributions
 
 - [Identivia](https://github.com/identivia)
