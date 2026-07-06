@@ -28,5 +28,8 @@
 
 ---
 
-## ✨ Quote
-> *"腾而不忘初心 达则兼济天下"* — TENGDA
+<p align="center">
+  腾而不忘初心 达则兼济天下
+  <br>
+  TENGDA
+</p>
