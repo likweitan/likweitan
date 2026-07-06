@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-likweitan.eu.org-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](https://likweitan.eu.org)
 [![Blog](https://img.shields.io/badge/Blog-likweitan.github.io-informational?style=flat-square&color=FAEEE7&logo=krita&logoColor=white)](https://likweitan.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lik Wei Tan-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likweitan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LikWei-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likweitan/)
 [![Mail](https://img.shields.io/badge/Gmail-likweitan@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:likweitan@gmail.com?subject=Hey!)
 
 ### Skills
