@@ -1,10 +1,4 @@
 <p align="center">
-  📧 Email: <a href="mailto:likweitan@gmail.com">likweitan@gmail.com</a>
-</p>
-
----
-
-<p align="center">
   <!-- Profile views -->
   <img src="https://komarev.com/ghpvc/?username=likweitan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
   
@@ -31,14 +25,6 @@
 - [Project Kersenseife](https://github.com/SAP/project-kernseife)
 - [SAP Code Style Guides](https://github.com/SAP/styleguides)
 - [SAP Cloud Connector](https://github.com/likweitan/sap-cloud-connector)
-
-## 🤝 Connect with me
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/likweitan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
 
 ---
 
