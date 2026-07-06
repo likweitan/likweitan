@@ -5,8 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likweitan/)
 [![Mail](https://img.shields.io/badge/Gmail-likweitan@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:likweitan@gmail.com?subject=Hey!)
 
-<br>
-
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,react,docker,git,raspberrypi)](https://skillicons.dev)
