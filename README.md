@@ -22,6 +22,9 @@ Act Different.
 **[abap-skills](https://github.com/likweitan/abap-skills)** &nbsp;·&nbsp; <samp>skills, abap</samp><br>
 Contains various ABAP agent skills.
 
+**[waku-agent](https://github.com/ShenSeanChen/waku-agent)** &nbsp;·&nbsp; <samp>python, javascript</samp><br>
+A local-first personal assistant that shows the four pillars behind every serious agent: Harness · Loop · Memory · Eval/LLM-Ops.
+
 **[project-kernseife](https://github.com/SAP/project-kernseife)** &nbsp;·&nbsp; <samp>typescript, cap cds</samp><br>
 Custom ATC Check for ABAP systems that enables you to flexibly score the usage of SAP objects in your system.
 
