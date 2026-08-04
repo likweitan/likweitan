@@ -33,8 +33,6 @@ Custom ATC Check for ABAP systems that enables you to flexibly score the usage o
 
 <img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
-<img src="./year.svg" width="620" alt="The last year, one character per day"/>
-
 </div>
 
 > 腾而不忘初心 达则兼济天下
