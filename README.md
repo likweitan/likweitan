@@ -1,33 +1,40 @@
-<p align="center">
-  <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=likweitan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/likweitan?style=for-the-badge&logo=github&label=Followers&color=2eb85c"/>
-  
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/likweitan?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=f39c12"/>
-</p>
+<div align="center">
 
----
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-### Skills
+[futens.com](https://futens.com) &nbsp;·&nbsp;
+[instagram](https://www.instagram.com/likweitan/) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/likweitan/) &nbsp;·&nbsp;
+[email](mailto:likweitan@gmail.com)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,react,docker,git,raspberrypi)](https://skillicons.dev)
+</div>
 
-### AI Contributions
+<img src="./hd-about.svg" width="620" alt="about"/>
 
-- [Identivia](https://github.com/identivia)
+> Technical Consultant - AI & SAP BTP
 
-### ABAP and Related Open-Source Contributions
+I build intelligent solutions leveraging AI and SAP BTP.
 
-- [ABAP Skills](https://github.com/likweitan/abap-skills)
-- [Project Kersenseife](https://github.com/SAP/project-kernseife)
-- [SAP Code Style Guides](https://github.com/SAP/styleguides)
-- [SAP Cloud Connector](https://github.com/likweitan/sap-cloud-connector)
+<img src="./hd-stack.svg" width="620" alt="stack"/>
 
----
+<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; sap btp &nbsp; abap &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
 
-<p align="center">
-  腾而不忘初心 达则兼济天下
-</p>
+<img src="./hd-projects.svg" width="620" alt="projects"/>
+
+**[abap-skills](https://github.com/likweitan/abap-skills)** &nbsp;·&nbsp; <samp>skills, abap</samp><br>
+Contains various ABAP agent skills.
+
+**[project-kernseife](https://github.com/SAP/project-kernseife)** &nbsp;·&nbsp; <samp>typescript, cap cds</samp><br>
+Custom ATC Check for ABAP systems that enables you to flexibly score the usage of SAP objects in your system.
+
+<img src="./hd-stats.svg" width="620" alt="stats"/>
+
+<div align="center">
+
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
+
+</div>
