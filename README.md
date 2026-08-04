@@ -2,7 +2,7 @@
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-[futens.com](https://futens.com) &nbsp;·&nbsp;
+[blog](https://likweitan.github.io) &nbsp;·&nbsp;
 [instagram](https://www.instagram.com/likweitan/) &nbsp;·&nbsp;
 [linkedin](https://www.linkedin.com/in/likweitan/) &nbsp;·&nbsp;
 [email](mailto:likweitan@gmail.com)
