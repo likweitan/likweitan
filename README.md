@@ -11,9 +11,7 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> Technical Consultant - AI & SAP BTP
-
-I build intelligent solutions leveraging AI and SAP BTP.
+Act Different.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
@@ -38,3 +36,5 @@ Custom ATC Check for ABAP systems that enables you to flexibly score the usage o
 <img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
 </div>
+
+> 腾而不忘初心 达则兼济天下
