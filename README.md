@@ -15,7 +15,7 @@ Act Different.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; sap btp &nbsp; abap &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
+<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; abap &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
@@ -35,4 +35,4 @@ Custom ATC Check for ABAP systems that enables you to flexibly score the usage o
 
 </div>
 
-> 腾而不忘初心 达则兼济天下
+<p align="center">腾而不忘初心 达则兼济天下</p>
