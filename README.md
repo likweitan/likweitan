@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
+<!-- <img src="./stats.svg" width="620" alt="Contributions in the last year"/> -->
 
 [blog](https://likweitan.github.io) &nbsp;·&nbsp;
 [instagram](https://www.instagram.com/likweitan/) &nbsp;·&nbsp;
@@ -21,6 +21,9 @@ Act Different.
 
 **[abap-skills](https://github.com/likweitan/abap-skills)** &nbsp;·&nbsp; <samp>skills, abap</samp><br>
 Contains various ABAP agent skills.
+
+**[splitta](https://github.com/likweitan/splitta)** &nbsp;·&nbsp; <samp>react, sap-hana</samp><br>
+Alternative to Splitwise. Share expenses with your colleagues.
 
 **[waku-agent](https://github.com/ShenSeanChen/waku-agent)** &nbsp;·&nbsp; <samp>python, javascript</samp><br>
 A local-first personal assistant that shows the four pillars behind every serious agent: Harness · Loop · Memory · Eval/LLM-Ops.
