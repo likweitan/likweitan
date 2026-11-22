@@ -11,7 +11,7 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-Act Different.
+腾而不忘初心 达则兼济天下
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
@@ -35,10 +35,8 @@ Custom ATC Check for ABAP systems that enables you to flexibly score the usage o
 
 <div align="center">
 
-<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+<!-- <img src="./streak.svg" width="620" alt="Current and longest streak"/> -->
 
 <img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
 </div>
-
-<p align="center">腾而不忘初心 达则兼济天下</p>
