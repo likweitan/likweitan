@@ -31,6 +31,9 @@ A local-first personal assistant that shows the four pillars behind every seriou
 **[project-kernseife](https://github.com/SAP/project-kernseife)** &nbsp;·&nbsp; <samp>typescript, cap cds</samp><br>
 Custom ATC Check for ABAP systems that enables you to flexibly score the usage of SAP objects in your system.
 
+**[identivia](https://github.com/identivia)** &nbsp;·&nbsp; <samp>react</samp><br>
+KYC secure app.
+
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
